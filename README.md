@@ -4,7 +4,14 @@
 
 Email Me 👉 ✉️ **shashankraj5306@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
--🔭 **I’m currently working on:** Ms skills and project<br>- 🌱 **I’m currently learning:** AWS Cloud Technologies and other Software Engineer technologies<br>- 👯 **I’m looking to collaborate on:** Full-stack development <br>- 🤔 **I’m looking for help with:** Recruitment & Projects based on Web development<br>- 💬 **Ask me about:** Collaboration, Tech Support<br>- 📫 **How to reach me:** shashankraj5306@gmail.com<br>- 😄 **Pronouns:** Shashank<br>- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+-🔭 **I’m currently working on:** Ms skills and project<br>
+- 🌱 **I’m currently learning:** AWS Cloud Technologies and other Software Engineer technologies<br>
+- 👯 **I’m looking to collaborate on:** Full-stack development <br>
+- 🤔 **I’m looking for help with:** Recruitment & Projects based on Web development<br>
+- 💬 **Ask me about:** Collaboration, Tech Support<br>
+- 📫 **How to reach me:** shashankraj5306@gmail.com<br>
+- 😄 **Pronouns:** Shashank<br>
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
   
 
 <!-- Snake Game Repo View -->
