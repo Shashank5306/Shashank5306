@@ -14,7 +14,7 @@ Email Me 👉 ✉️ **shashankraj5306@gmail.com** For Collaboration/Project or 
 - 💬 **Ask me about Collaboration, Tech Support**<br>
 - 📫 **How to reach me **shashankraj5306@gmail.com**<br>
 - 😄 **Pronouns: Shashank**<br>
-- ⚡ **Fun fact: "I Love Tech and Tech Love Me.""**
+- ⚡ **Fun fact: "I Love Tech and Tech Love Me."**
   
 
 <!-- Snake Game Repo View -->
