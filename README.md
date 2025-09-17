@@ -60,6 +60,8 @@ Certifications
 [Shasahnk AWS Foundations.pdf](https://github.com/user-attachments/files/22391695/Shasahnk.AWS.Foundations.pdf) 
 
 
+<h2>The Future Belongs To Those Who Believe In The Beauty Of Their Dreams</h2>
+<img height="auto" src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif" style="border-radius:50">
 
 
 
