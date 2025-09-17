@@ -1,8 +1,10 @@
 # 💫 About Me:
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Shashank;Full+stack+Web+Developer;AWS+Cloud+Practitioner;Python+Developer" alt="Animated Header" />
+  
 <h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
 
-# 💫 
-<h2 align="center">Hi, I'm Shashank  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
+<h2 align="center">💫 Hi, I'm Shashank  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
 
 **A passionate Full-stack Deveoper || Data Science || AWS Cloud Practitioner**
 
