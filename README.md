@@ -8,7 +8,7 @@
 
 **A passionate Full-stack Deveoper || Data Science || AWS Cloud Practitioner**
 
-Email Me 👉 ✉️ **shashankraj5306@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **shashank534.dev@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on Web Developer and Data Scientist**<br>
 - 🌱 **I’m currently learning AWS Cloud Technologies and other Software Engineer technologies**<br>
