@@ -15,7 +15,7 @@ Email Me 👉 ✉️ **shashank534.dev@gmail.com** For Collaboration/Project or 
 - 👯 **I’m looking to collaborate on Full-stack development** <br>
 - 🤔 **I’m looking for help with Recruitment & Projects based on Web development**<br>
 - 💬 **Ask me about Collaboration, Tech Support**<br>
-- 📫 **How to reach me **shashankraj5306@gmail.com**<br>
+- 📫 **How to reach me **shashank534.dev@gmail.com**<br>
 - 😄 **Pronouns: Shashank**<br>
 - ⚡ **Fun fact: "I Love Tech and Tech Love Me."**
   
